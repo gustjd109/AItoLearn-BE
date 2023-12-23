@@ -1,4 +1,4 @@
-# <img src="https://github.com/gustjd109/AItoLearn-BE/assets/128982688/d4074741-2034-4f00-87de-c4ea32575ac5" width="30px" height="30px"/>  당신의 영원한 스터디 메이트 AItoLearn
+# <img src="https://github.com/gustjd109/AItoLearn-BE/assets/128982688/d4074741-2034-4f00-87de-c4ea32575ac5" width="30px" height="30px"/>  영원한 당신의 스터디 메이트 AItoLearn
 <br>
 
 
